@@ -1,3 +1,3 @@
 # Hestia.Logging.DingTalk.Samples
 
-ÕâÀïÊÇ [Hestia.Logging.DingTalk](https://github.com/sduo/Hestia.Logging.DingTalk) µÄÊ¾Àı´úÂë¡£
+è¿™é‡Œæ˜¯ [Hestia.Logging.DingTalk](https://github.com/sduo/Hestia.Logging.DingTalk) çš„ç¤ºä¾‹ä»£ç ã€‚
